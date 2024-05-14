@@ -16,3 +16,11 @@ module.exports = {
   plugins: ["@mehwww/prettier-plugin-thrift"],
 };
 ```
+
+## AST Parser
+
+The AST parser used in this plugin is mainly forked from [@creditkarma/thrift-parser](https://github.com/creditkarma/thrift-parser), with some modifications to better suit the specific needs of this project. I would like to express my sincere appreciation to the original authors for his excellent work.
+
+## License
+
+This project is licensed under the MIT License.
